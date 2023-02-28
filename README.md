@@ -25,7 +25,7 @@ npm install
 Create and open `.env` file in the project directory then edit it with your settings. Use this template:
 
 ```properties
-CLIENT_ID=<id>
+CLIENT_ID=<id> // id of your reddit app
 ```
 
 ### Running the project
